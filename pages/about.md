@@ -8,20 +8,18 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://github.com/heidi-y/harmsway_draft/blob/main/objects/A121.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+*In Harm's Way* was a physical exhibit held from October 6 to December 31, 2017 at the Long Island Museum located in Stony Brook, New York. Aimed at educating, documenting, and sharing lived the lived experience of natural disasters on Long isalnd across the last century, *In Harm's Way* showcased stark realities for the community as they coped with the destruction and upheaval created by superstorms like Hurricane Sandy. Although made more prevalent as climate change roars forward, residents of Long Island have a long history of finding creative ways to cope with environmental threats to ther habitat. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+The digital exhibit is meant to showcase the materials from the physical exhibit in an online environment so that visitors can experience the materials no matter their location. The exhibit is divided into three sections: Looking Backwards; Irene Lee, and Sandy; and Looking Forwards. Browse through archival photos, video interviews, photos from the 2017 exhibit, and documents from the storms to learn more about Long Island, its history with natural disastors, and the human response to climate change on the Island. 
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
