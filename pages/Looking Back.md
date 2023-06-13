@@ -3,7 +3,7 @@ title: Looking Back
 layout: page
 permalink: /lookingback.html
 ---
-#Looking Back
+# Looking Back
 
 Hurricanes, tropical storms, and other significant weather events have cast a long shadow of devastation across our region's history. The "Great September Gale" of 1815 was the worst hurricane to strike Long Island in the early 19th century. The "Long Island Express" slammed into this area on September, 21, 1937, with the eye passing over Westhampton Beach. Local groups, individuals, and government agencies responded by planting grass on beaches and building groins and jetties to stabilize the beach and to prevent erosion. They set up emergency communication systems and the Red Cross providd shelter to local residents. These approaches continue to the present, in order to prevent the kind of devastation that occurred that fateful day. 
 
