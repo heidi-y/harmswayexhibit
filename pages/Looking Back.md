@@ -9,7 +9,7 @@ Hurricanes, tropical storms, and other significant weather events have cast a lo
 
 After World War II people moved to Long Island's coastal communities, living in vacation or permanent homes built on former marshalnds or barrier beaches that flooded regularly. For many the storms felt unique, not to be replicated. But as the years went by, more storms came to Long Island. By 1968 hurricanes and other severe storms wer so common that Congress established the National Flood Insurance Program to help homeowners rebuild. 
 
-{% include feature/video.html objectid="a010" width="50" caption="Check out this video to learn more about the Long Island Express" %}
+{% include feature/video.html objectid="https://www.youtube.com/watch?v=AqFdPccXlHo&list=PL_pPoNArok3uqIvl2V9IfJQl6HjyLPhOE" width="50" caption="Learn more about the Long Island Express!" %}
 
 {% include feature/video.html objectid="a011" width="50" caption="Here, you'll hear about Long Islander's experiences through the Great Atlantic Hurricane and the 1991 and 1992 Nor'Easters" %}
 
