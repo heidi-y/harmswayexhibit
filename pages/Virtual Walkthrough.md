@@ -8,7 +8,7 @@ permalink: /walkthrough.html
 
 Welcome to our virtual exhibit!
 
-*In Harm's Way* seeks to address the question: "How will we survive the next Superstorm Sandy?" based on our traditional knowledge, our past experiences, and public policies. To help us answer this critical question we looked to bay hour ownders, fighermen and bayme, coastal residents, first responders, architects and planners, and historians, who have extensive knowledge of past and recent storms. Through their eyes you will learn how our coasts have changed, the benefits and drawbacks of staying in harm's way or evacuating, and whether the latest approaches to storm management will stand the test of time. 
+*In Harm's Way* seeks to address the question: "How will we survive the next Superstorm Sandy?" based on our traditional knowledge, our past experiences, and public policies. To help us answer this critical question we looked to bay house owners, firemen and baymen, coastal residents, first responders, architects and planners, and historians, who have extensive knowledge of past and recent storms. Through their eyes you will learn how our coasts have changed, the benefits and drawbacks of staying in harm's way or evacuating, and whether the latest approaches to storm management will stand the test of time. 
 
 Through our viritual exhibit, we hope to continue a discussion on how we can adapt to more superstorms and hurricanes, or whether we need to consider alteratives to living in harm's way. 
 
