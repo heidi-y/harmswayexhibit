@@ -1,3 +1,9 @@
+---
+title: Virtual Walkthrough
+layout: page
+permalink: /walkthrough.html
+---
+
 # Virtual Walkthrough for *In Harm's Way* 
 
 Welcome to our virtual exhibit!
