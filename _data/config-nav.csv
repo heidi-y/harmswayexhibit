@@ -1,14 +1,14 @@
-display_name,stub,dropdown_parent,
-Home,/,,
-Browse,/browse.html,,
-Subjects,/subjects.html,,
-Locations,/locations.html,Subjects,
-Map,/map.html,,
-Timeline,/timeline.html,,
-Data,/data.html,,
-About,/about.html,,
-Virtual Walkthrough,/walkthrough.html,,
-Looking Back,/lookingback.html,Virtual Walkthrough,
-Sandy Irene and Lee,/sandy.html,Virtual Walkthrough,
-Looking Forwards,/lookingforwards.html,Virtual Walkthrough,
+display_name,stub,dropdown_parent
+Home,/,
+Browse,/browse.html,
+Collection Subjects,/subjects.html,
+Locations,/locations.html,Collection Subjects
+Map,/map.html,
+Timeline,/timeline.html,
+Data,/data.html,
+About,/about.html,
+In Harm's Way Virtual Walkthrough,/walkthrough.html,
+Looking Back,/lookingback.html,In Harm's Way Virtual Walkthrough
+Sandy Irene and Lee,/sandy.html,In Harm's Way Virtual Walkthrough
+Looking Forwards,/lookingforwards.html,In Harm's Way Virtual Walkthrough
 
