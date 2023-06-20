@@ -1,5 +1,5 @@
 ---
-title: Virtual Walkthrough
+title: In Harm's Way Virtual Walkthrough
 layout: page
 permalink: /walkthrough.html
 ---
