@@ -1,5 +1,5 @@
 ---
-title: Sandy, Irene, and Lee
+title: Sandy Irene and Lee
 layout: page
 permalink: /sandy.html
 ---
