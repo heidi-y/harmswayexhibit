@@ -16,3 +16,5 @@ Through our viritual exhibit, we hope to continue a discussion on how we can ada
 
 Long Island is not alone in facing these issues. Hurricanes Irene and Lee devastated dozens of communities in upstate New York, and coastal North Carolina has a long history of severe weather. They also face difficult decisions on where and how to live, whether they elevate homes or withdraw from flood prone communities. Across the United States we've seen whole villages and towns washed out on a regular basis. Let us learn from each other, so that together we can survive. 
 
+Click through our sections, "Looking Back," "Looking Forward," and "Sandy, Irene, and Lee" to learn more! 
+
