@@ -15,7 +15,7 @@ Miraculously, 14 bay houses survived, as did modest bungalows in Far Rockaway. S
 
 {% include feature/video.html objectid="a012" width="75" %}
 
- {% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg" width="75" alt="Frank B. Robinson at the Organ" caption="This guy is good!"%}
+ {% include feature/image.html objectid="a119" width="75" alt="Hurricane Sandy Trees" caption="Hundreds of felled trees clogged roads along the north and south shores."%}
 
  {% include feature/image.html objectid="a126" width="75" alt="Lindenhurst, Hurricane Sandy" caption="The streets of Freeport became rivers during Sandy."%}
 
