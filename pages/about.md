@@ -8,7 +8,8 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://github.com/heidi-y/harmsway_draft/blob/main/objects/A121.jpg"%}
+
+{% include feature/image.html objectid="a001" width="75" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
