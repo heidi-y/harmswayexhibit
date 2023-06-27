@@ -3,6 +3,7 @@ title: A Look at Bay Houses
 layout: page
 permalink: /bayhouses.html
 ---
+# Bay House Resilience
 Bay houses are small shacks that stand on the South Shore's fragile marshlands in the Town of Hempstead and the Town of Islip. These small houses were originally built in the 1700 and 1800s by fishermen, baymen, and duck hunters. These bay dwellers used the shelters while they harvested clams and salt hay, or went duck hunting. Through the years, these historic stuctures have been passed down among families. 
 
 During the 1940s through the 1960s more residents built bay houses as weekend getaways. By 1965 there were over 200 bay houses. In 1965 the Town of Hempstead removed most of the bay houses in an effort to preserve the sensitive wetlands on which they stand. 
