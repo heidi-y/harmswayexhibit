@@ -1,5 +1,5 @@
 ---
-title: A look at bay houses
+title: A Look at Bay Houses
 layout: page
 permalink: /bayhouses.html
 ---
