@@ -21,7 +21,7 @@ Storms and hurricanes play important roles in the history of Long Island, determ
 
 This digital exhibit is meant to showcase the materials from the physical exhibit in an online environment so that visitors can experience *In Harm's Way* no matter their location. The exhibit is divided into three sections: Looking Backwards; Irene Lee, and Sandy; and Looking Forwards. Browse through archival photos, video interviews, photographs from the 2017 exhibit, and documents from the storms to learn more about Long Island, its history with natural disastors, and human endurance to climate threats across time. 
 
-
+ {% include feature/pdf.html objectid="a016" width="50" caption="Thanks to all who made this exhibit possible!" %}
 
 
 
