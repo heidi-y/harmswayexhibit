@@ -21,6 +21,8 @@ In this section, we imagine how a coastal village may be designed to mitigate fu
 
 {% include feature/pdf.html objectid="https://www.ready.gov/sites/default/files/2020-03/fema_how-to-prepare-for-hurricane.pdf" width="50" caption="FEMA Hurricane Preparedness Guide" %}
 
+{% include feature/pdf.html objectid="a015" width="50" %}
+
 {% include feature/image.html objectid="a160" width="75" caption="Immediately after Sandy several community based groups were created to assist their neighbors.  The Friends of Freeport has assisted over 400 homeowners and residents, gutting and reframing damaged houses, removing trees and mold, and providing meals and clothes to those left homeless." %}
 
 {% include feature/image.html objectid="a57" width="75" caption="South shore bay houses have always been in harm’s way. However, inhabitants use the resources around them to find creative ways to mitigate environmental damage. Check out the bagged clam shells in the bottom of this photograph to see a vernacular form of storm protection used by bay house owners." %}
