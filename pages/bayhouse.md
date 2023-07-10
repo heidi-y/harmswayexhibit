@@ -1,7 +1,7 @@
 ---
 title: A Look at Bay Houses
 layout: page
-permalink: /bayhouses.html
+permalink: /bayhouse.html
 ---
 # Bay House Resilience
 Bay houses are small shacks that stand on the South Shore's fragile marshlands. These small houses were originally built in the 1700 and 1800s by fishermen, baymen, and duck hunters. These bay dwellers used the shelters while they harvested clams and salt hay, or went duck hunting. Through the years, these historic stuctures have been passed down among families. 
