@@ -1,5 +1,5 @@
 ---
-title:Bay Houses in the Storm 
+title: Bay Houses in the Storm 
 layout: page
 permalink: /bayhouse.html
 ---
