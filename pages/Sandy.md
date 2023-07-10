@@ -27,3 +27,5 @@ Miraculously, 14 bay houses survived, as did modest bungalows in Far Rockaway. S
 
  {% include feature/image.html objectid="a127" width="75" alt="Photo  Courtesy of Long Island Coast Guard" caption="In Long Beach the damage from Sandy included streets filled with sand, homes under water, and the destroyed boardwalk."%}
 
+{% include feature/audio.html objectid="a167" width="50" %}
+
