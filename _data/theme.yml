@@ -102,8 +102,8 @@ bootswatch: lumen
 base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#0d6efd"
-base-font-family: 'Roboto Slab', serif;
-font-cdn: <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet"> 
+base-font-family: 
+font-cdn:
 
 # THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/
