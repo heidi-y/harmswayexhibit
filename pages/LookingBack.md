@@ -26,3 +26,5 @@ After World War II people moved to Long Island's coastal communities, living in 
 {% include feature/image.html objectid="a38" width="75" caption="Public Works Project, 1938" %}
 
 {% include feature/image.html objectid="a39" width="75" caption="Westhampton Beach, Hurricane of 1938" %}
+
+{% include feature/audio.html objectid="a169" width="50" %}
