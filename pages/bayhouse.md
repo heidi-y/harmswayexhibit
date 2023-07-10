@@ -23,6 +23,10 @@ The bay houses generally face South, to take advantage of the sunlight and the c
  {% include feature/image.html objectid="a060" width="75" %}
  {% include feature/image.html objectid="a004" width="75" %}
 
+ {% include feature/image.html objectid="a162;a163;a164;a165" %}
+
+ 
+
 
 
 
