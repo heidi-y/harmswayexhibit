@@ -14,7 +14,7 @@ The bay houses generally face South, to take advantage of the sunlight and the c
 
  As mentioned in the Sandy, Irene, and Lee section, 14 bay houses miraculously survived the storm. In this section, we will take a closer look at bayhouses, their custodians, and some of the ingenious storm mitigation strategies used to protect these treasured historic structures. 
 
- For a longer history of the bay houses, and for more resources, see our description on the Long Island Traditions website {% include feature/button.html text="here!" link="https://longislandtraditions.org/bay-houses/" color="success" %}
+
 
  {% include feature/image.html objectid="a57" width="75" %}
  {% include feature/image.html objectid="a058" width="75" %}
