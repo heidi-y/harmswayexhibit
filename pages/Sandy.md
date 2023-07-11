@@ -31,7 +31,10 @@ Watch the video above for an in-depth look at how Long Island communities were i
  >"I should not have stayed...the water's in my house, it's up to the first riser of my stairs in the house."-Jospeh Gallinaro describing a phone conversation with his neighbor during Superstorm Sandy
 
 {% include feature/image.html objectid="a118" width="75" alt="Sandy Damage in Freeport and Seaford" caption="House barge"%}
-The house barge got picked up 3 or 4 feet, went over the top of the pilings that we’re secured to, and was pushed inland about 50 yards.  The floating dock tailed along behind it the whole time.  We were bow to bow with our neighbors’ barge instead of side by side.” -  Peter Kopher. Photo by Ben Jackson.
+>The house barge got picked up 3 or 4 feet, went over the top of the pilings that we’re secured to, and was pushed inland about 50 yards.  The floating dock tailed along behind it the whole time.  We were bow to bow with our neighbors’ barge instead of side by side.” -  Peter Kopher. Photo by Ben Jackson.
+
+ {% include feature/image.html objectid="a127" width="75" alt="Photo  Courtesy of Long Island Coast Guard" caption="Long Beach"%}
+ In Long Beach the damage from Sandy included streets filled with sand, homes under water, and the destroyed boardwalk.
 
 {% include feature/video.html objectid="a013" width="75" %}
 Fishermen have particularly harrowing storm stories to share. 
@@ -39,7 +42,7 @@ Fishermen have particularly harrowing storm stories to share.
  {% include feature/image.html objectid="a008" width="75" alt="What Would You Bring?" caption="What would you bring?"%}
  Evacuation means making tough decisions quickly and accepting the sad reality of massive property loss. Visitors to the Long Island Maritime Museum were asked to describe what they would choose to bring along with them in the case of an emergency evacuation. Objects from their responses were displayed as part of the exhibit. What would YOU bring?
 
- {% include feature/image.html objectid="a127" width="75" alt="Photo  Courtesy of Long Island Coast Guard" caption="In Long Beach the damage from Sandy included streets filled with sand, homes under water, and the destroyed boardwalk."%}
+
 
 
 
