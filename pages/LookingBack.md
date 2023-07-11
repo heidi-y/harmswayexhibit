@@ -35,8 +35,8 @@ The Long Island Express took lives as well as property. Some architectural objec
 One thing history has shown is that a network of community, federal, and municipal actors is vital for cleaning up after a storm's destruction. The two photos above from 1938 illustrate the importance of this priniciple. 
 
 {% include feature/image.html objectid="a47" width="75" caption="1991 Nor'Easter" %}
-This incredible photograph taken by John H. Carroll Jr. illustrates just how powerful stroms can be in destroying our homes. 
+This incredible photograph taken by John H. Carroll Jr. illustrates just how powerful stroms can be in taking our homes. 
 
 {% include feature/audio.html objectid="a169" width="50" %}
-On December 22nd, 2022 Chris Kretz released this episode on the clean up process following Hurricane of 1938. Part of his podcast, [The Long Island History Project](https://www.longislandhistoryproject.org/cleaning-up-after-the-hurricane-of-1938/) Chris Kretz does a wonderful job interviewing Long Island resident Jonathan C. Bergman in this episode. Check out Kretz' website for more interesting episodes about Long Island's history! 
+On December 22nd, 2022 Chris Kretz released this episode on the clean up process following Hurricane of 1938. Part of his podcast, [The Long Island History Project](https://www.longislandhistoryproject.org/cleaning-up-after-the-hurricane-of-1938/) Chris Kretz does a wonderful job compiling narratives from those who experienced the 1938 storm. Check out Kretz' website for more interesting episodes about Long Island's history! 
 
