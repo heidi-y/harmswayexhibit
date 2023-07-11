@@ -1,6 +1,6 @@
 ---
 title: Looking Back
-layout: page
+layout: about
 permalink: /lookingback.html
 ---
 # Looking Back
