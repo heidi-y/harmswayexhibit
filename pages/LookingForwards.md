@@ -3,6 +3,7 @@ title: Looking Forward
 layout: about
 permalink: /lookingforwards.html
 ---
+
 # Looking Forward
 
 >"I think Sandy was a big eye-opening event. But maybe not to the extent that people are ready to leave our shores. Is that an idea we can wrap our heads around? For some it comes very easily because they've lived through several storms and lost their life possessions. And for others, who may have gone through something like that, they simply don't want to leave." -David Sabatino, Regional Planner
@@ -20,12 +21,12 @@ Check out the video above to learn how Long Island residents are imagining a pat
 {% include feature/image.html objectid="a154;a155" width="65" caption="Beach planting efforts" %}
 {% include feature/image.html objectid="a018" width="75" caption="Shinnecock beach planting" %}
 
-Immediately after Sandy, communities like the Town of Hempstead and Shinnecock Nation began planting beach grass to strengthen their dunes, using the help of volunteers like Christine & Melissa Watson and their work force. Areas that had protective dunes suffered less damage, including Point Lookout and Shinnecock Bay. Recall from the Looking Back section how important community efforts such as these have been throughout the years for storm recovery. 
+Immediately after Sandy, communities like the Town of Hempstead and Shinnecock Nation began planting beach grass to strengthen their dunes, using the help of volunteers like Christine & Melissa Watson and their work force. Areas that had protective dunes suffered less damage, including Point Lookout and Shinnecock Bay. Recall from the Looking Back section how important community efforts such as these have been throughout the years for storm recovery. Compare the photo below to those you just saw. 
 
+{% include feature/image.html objectid="a50" width="75" caption="Ocean Beach, 1938" %}
 
 {% include feature/pdf.html objectid="https://www.ready.gov/sites/default/files/2020-03/fema_how-to-prepare-for-hurricane.pdf" width="50" caption="FEMA Hurricane Preparedness Guide" %}
 
-{% include feature/pdf.html objectid="a015" width="50" %}
 Today, FEMA provides documentation including building guidelines and hurricane preparedness guides (shown above) to help people prepare for the next disaster. 
 
 {% include feature/image.html objectid="a160" width="75" caption="Friends of Freeport" %}
