@@ -34,6 +34,9 @@ The Long Island Express took lives as well as property. Some architectural objec
 {% include feature/image.html objectid="a39" width="75" caption="Westhampton Beach, Hurricane of 1938" %}
 One thing history has shown is that a network of community, federal, and municipal actors is vital for cleaning up after a storm's destruction. The two photos above from 1938 illustrate the importance of this priniciple. 
 
+{% include feature/image.html objectid="a47" width="75" caption="1991 Nor'Easter" %}
+This incredible photograph taken by John H. Carroll Jr. illustrates just how powerful stroms can be in destroying our homes. 
+
 {% include feature/audio.html objectid="a169" width="50" %}
 On December 22nd, 2022 Chris Kretz released this episode on the clean up process following Hurricane of 1938. Part of his podcast, [The Long Island History Project](https://www.longislandhistoryproject.org/cleaning-up-after-the-hurricane-of-1938/) Chris Kretz does a wonderful job collecting local experience narratives from Long Island resident Jonathan C. Bergman. Check out Kretz' website for more interesting epsidoes about Long Island's history! 
 
