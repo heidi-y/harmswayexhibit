@@ -1,6 +1,6 @@
 ---
 title: Bay Houses in the Storm 
-layout: page
+layout: about
 permalink: /bayhouse.html
 ---
 # Bay Houses in the Storm
