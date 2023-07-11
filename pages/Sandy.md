@@ -3,6 +3,7 @@ title: Sandy Irene and Lee
 layout: about
 permalink: /sandy.html
 ---
+{% include feature/jumbotron.html objectid="a124" %}
 # Sandy, Irene, and Lee
 
 >"The last few years before the storm we caught plenty of fish. After the storm it was a living nightmare. Besides the waters being closed for clamming, you couldn't even drive through town; there were boats in the road everywhere. It was devastation everywhere." -Joey Scavone, Commercial Fisherman, Freeport 
