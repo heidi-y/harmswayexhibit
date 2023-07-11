@@ -17,8 +17,10 @@ In this section, we imagine how a coastal village may be designed to mitigate fu
 {% include feature/video.html objectid="a014" width="75" %}
 Check out the video above to learn how Long Island residents are imagining a path forward and preparing for future storms. 
 
-{% include feature/image.html objectid="a154;a155" width="75" caption="Beach planting efforts" %}
-Immediately after Sandy, the Town of Hempstead and other municipalities began planting beach grass to strengthen their dunes, using the help of volunteers like Christine & Melissa Watson and their work force. Areas that had protective dunes suffered less damage, including Point Lookout. Recall from the Looking Back section how important community efforts such as these have been throughout the years for storm recovery. 
+{% include feature/image.html objectid="a154;a155" width="65" caption="Beach planting efforts" %}
+{% include feature/image.html objectid="a018" width="75" caption="Shinnecock beach planting" %}
+
+Immediately after Sandy, communities like the Town of Hempstead and Shinnecock Nation began planting beach grass to strengthen their dunes, using the help of volunteers like Christine & Melissa Watson and their work force. Areas that had protective dunes suffered less damage, including Point Lookout and Shinnecock Bay. Recall from the Looking Back section how important community efforts such as these have been throughout the years for storm recovery. 
 
 
 {% include feature/pdf.html objectid="https://www.ready.gov/sites/default/files/2020-03/fema_how-to-prepare-for-hurricane.pdf" width="50" caption="FEMA Hurricane Preparedness Guide" %}
