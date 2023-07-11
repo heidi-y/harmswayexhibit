@@ -21,18 +21,17 @@ Check out the video above to learn how Long Island residents are imagining a pat
 Immediately after Sandy, the Town of Hempstead and other municipalities began planting beach grass to strengthen their dunes, using the help of volunteers like Christine & Melissa Watson and their work force. Areas that had protective dunes suffered less damage, including Point Lookout. Recall from the Looking Back section how important community efforts such as these have been throughout the years for storm recovery. 
 
 
-
-
-
 {% include feature/pdf.html objectid="https://www.ready.gov/sites/default/files/2020-03/fema_how-to-prepare-for-hurricane.pdf" width="50" caption="FEMA Hurricane Preparedness Guide" %}
 
 {% include feature/pdf.html objectid="a015" width="50" %}
+Today, FEMA provides documentation including building guidelines and hurricane preparedness guides (shown above) to help people prepare for the next disaster. 
 
-{% include feature/image.html objectid="a160" width="75" caption="Immediately after Sandy several community based groups were created to assist their neighbors.  The Friends of Freeport has assisted over 400 homeowners and residents, gutting and reframing damaged houses, removing trees and mold, and providing meals and clothes to those left homeless." %}
+{% include feature/image.html objectid="a160" width="75" caption="Friends of Freeport" %}
+Immediately after Sandy, several community based groups were created to assist their neighbors.  The Friends of Freeport has assisted over 400 homeowners and residents, gutting and reframing damaged houses, removing trees and mold, and providing meals and clothes to those left homeless. 
 
-{% include feature/image.html objectid="a57" width="75" caption="South shore bay houses have always been in harm’s way. However, inhabitants use the resources around them to find creative ways to mitigate environmental damage. Check out the bagged clam shells in the bottom of this photograph to see a vernacular form of storm protection used by bay house owners." %}
 
-{% include feature/image.html objectid="a005" width="75" caption="Architecture students at New York Institute of Technology in Westbury were asked to design models and plans for structures and communities that could withstand another superstorm or hurricane.  Student contributors: Arkadiusz Chrobak, Marissa Marzullo, Shivanie Muneshwar, Vanessa Rocha, Eric Jakob, Minh Nguyen, Waisuddin Aziz, and Thomas Meade." %}
+{% include feature/image.html objectid="a005" width="75" caption="Student models" %}
+Architecture students at New York Institute of Technology in Westbury were asked to design models and plans for structures and communities that could withstand another superstorm or hurricane.  Student contributors: Arkadiusz Chrobak, Marissa Marzullo, Shivanie Muneshwar, Vanessa Rocha, Eric Jakob, Minh Nguyen, Waisuddin Aziz, and Thomas Meade.
 
 
 
