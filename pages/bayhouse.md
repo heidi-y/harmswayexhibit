@@ -3,13 +3,15 @@ title: Bay Houses in the Storm
 layout: about
 permalink: /bayhouse.html
 ---
-# Bay Houses in the Storm
+# Bay Houses on Long Island 
 
 Bay houses are small shacks that stand on the South Shore's fragile marshlands. These small houses were originally built in the 16th and 17th centuries by fishermen, baymen, and duck hunters. These bay dwellers used the shelters while they harvested clams and salt hay, or went duck hunting. Through the years, these historic stuctures have been passed down among families. 
 
 During the 1940s through the 1960s more residents built bay houses as weekend getaways. By 1965 there were over 200 bay houses. However, in 1965 the Town of Hempstead removed most of the bay houses in an effort to preserve the sensitive wetlands on which they stand. 
 
-Despite this iniative, as a result of research and advocation by Nancy Solomon, director of Long Island Traditions, the Town made the decision to preserve the fragile structures for future generations. Most of the houses that stand today range from 30 to 100 years old. 
+Despite this iniative, as a result of research and advocation by Nancy Solomon, director of Long Island Traditions, the Town made the decision to preserve the fragile structures for future generations. Most of the houses that stand today range from 30 to 100 years old.
+
+## Bay Houses in the storm 
 
 While bay houses have always been in harm's way, increased risk of destruction from natural disasters adds to their precarious existence. Still, "in working and living on the bay, [bay house] owners reaffirm their commitment to the martime traditions of the south shore and to the maintenance of the bay houses." By working in tandem with their environment and with the traditions of thsoe that came before them, bay houses and their stewards remain a precious part of Long Island. 
  
