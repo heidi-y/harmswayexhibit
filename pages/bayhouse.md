@@ -32,8 +32,8 @@ Bay houses and the environemnts in which they exist share a symbiotic relationsh
   {% include feature/image.html objectid="a166" width="75" caption="Helical Pile" %}
   Here is an example of a helical pile,referenced by Joseph Pignataro in his narrative above, which are used to stabilize structures that are in danger of environmental degradation. 
 
- {% include feature/image.html objectid="a162;a163" width="75" caption="Baer Bayhouse;Barratt Bayhouse" %}
- {% include feature/image.html objectid="a164;a165" width="75" caption="Port Williams Bayhouse;Stensil Bayhouse" %}
+ {% include feature/image.html objectid="a162;a163" width="75" caption="Baer Bay house;Barratt Bay house" %}
+ {% include feature/image.html objectid="a164;a165" width="75" caption="Port Williams Bay house;Stensil Bay house" %}
 
 Check out these four bay house models created by former bay house owner, Jeff Blossom. Bay houses generally face South to take advantage of the sunlight and the cool North-South breezes. They stand on "mud sills" consisting of long poles that lay on the marshland with upright posts to support the platform which in turn supports the house. Unlike traditional houses, there is no permanent foundation on a bay house. Many differnt kinds of materials were used for building these houses, which could take anywhere from a day to a whole year to complete! Because the houses are accessible only by boat, would-be owners often enlist help from friends, family, and co-workers in transporting building materials from the mainland to the marshlands.
 
