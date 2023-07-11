@@ -9,7 +9,7 @@ permalink: /lookingback.html
 
 Hurricanes, tropical storms, and other significant weather events have cast a long shadow of devastation across our region's history. The ["Great September Gale" of 1815](https://en.wikipedia.org/wiki/1815_New_England_hurricane) was the worst hurricane to strike Long Island in the early 19th century. The ["Long Island Express"](https://en.wikipedia.org/wiki/1938_New_England_hurricane) slammed into this area on September, 21, 1937, with the eye passing over Westhampton Beach. Local groups, individuals, and government agencies responded by planting grass on beaches and building groins and jetties to stabilize the beach and to prevent erosion. They set up emergency communication systems and the Red Cross provided shelter to local residents. Many of these approaches continue to the present in order to prevent the kind of devastation that occurred that fateful day. 
 
-## From anonamoly to actuality 
+## From anonymoly to actuality 
 
 After World War II people moved to Long Island's coastal communities, living in vacation or permanent homes built on former marshlands or barrier beaches that flooded regularly. For many, the storms felt unique, not to be replicated. But as the years went by more storms came to Long Island. By 1968, hurricanes and other severe storms were so common that Congress established the [National Flood Insurance Program](https://www.fema.gov/flood-insurance) to help homeowners rebuild. 
 
