@@ -24,7 +24,7 @@ Jetties are still used today to protect the shoreline from erosion by acting as 
 {% include feature/image.html objectid="a45" width="75" caption="Hurricane Gloria, Newsday" %}
 Dramatically rising waterlevels are a truly memorable part of natural disastors. On Sunrise Highway, telephone lines and telephone poles almost stopped this car from proceeding as a result of Hurricane Gloria. Note in the audio narrative below by Chip Duryea how intense flooding tends to stick in storm survivor's memories. 
 {% include feature/audio.html objectid="a170" width="50" %}
->"In a period of 20 minutes it went from almost nothing total catastrophe."-Chip Duryea
+>"In a period of 20 minutes it went from almost nothing to total catastrophe."-Chip Duryea
 
 {% include feature/image.html objectid="a006" width="75" caption="Objects recovered from past hurricanes" %}
 The Long Island Express took lives as well as property. Some architectural objects survived to serve as reminders of the tumult including the stately capitals featured in this image. 
@@ -38,5 +38,5 @@ One thing history has shown is that a network of community, federal, and municip
 This incredible photograph taken by John H. Carroll Jr. illustrates just how powerful stroms can be in destroying our homes. 
 
 {% include feature/audio.html objectid="a169" width="50" %}
-On December 22nd, 2022 Chris Kretz released this episode on the clean up process following Hurricane of 1938. Part of his podcast, [The Long Island History Project](https://www.longislandhistoryproject.org/cleaning-up-after-the-hurricane-of-1938/) Chris Kretz does a wonderful job collecting local experience narratives from Long Island resident Jonathan C. Bergman. Check out Kretz' website for more interesting epsidoes about Long Island's history! 
+On December 22nd, 2022 Chris Kretz released this episode on the clean up process following Hurricane of 1938. Part of his podcast, [The Long Island History Project](https://www.longislandhistoryproject.org/cleaning-up-after-the-hurricane-of-1938/) Chris Kretz does a wonderful job interviewing Long Island resident Jonathan C. Bergman in this episode. Check out Kretz' website for more interesting episodes about Long Island's history! 
 
