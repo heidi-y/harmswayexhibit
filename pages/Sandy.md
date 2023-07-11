@@ -20,13 +20,15 @@ Watch the video above for an in-depth look at how Long Island communities were i
  Hundreds of felled trees clogged roads along the north and south shores following the storm. 
 
  {% include feature/image.html objectid="a126" width="75" alt="Lindenhurst, Hurricane Sandy" caption="Lindenhurst after Hurricane Sandy."%}
- The streets of Freeport became rivers during Sandy, causing residents to hop into their watercrafts in order to get around. 
+ The streets of became rivers during Sandy, completely unrecognizable and full of hazardous materials. 
 
  {% include feature/image.html objectid="a151" width="75" alt="Climbing the Heap" caption="Friends of Freeport"%}
  Friends of Freeport and other groups helped their neighbors and friends clean up after Sandy. It took Frank Passalaqua of Baldwin two weeks to recover from the storm.
 
  {% include feature/audio.html objectid="a167" width="50" %}
- Listen to Anthony Rector describe his experience during Hurricane Sandy. This experience narrative was shared during a community symposium in conjunction with the In Harm's Way exhibit. 
+ Listen to Joseph Gallinaro describe his experience during Hurricane Sandy. This experience narrative was shared during a community symposium in conjunction with the In Harm's Way exhibit. 
+
+ >"I should not have stayed...the water's in my house, it's up to the first riser of my stairs in the house."-Jospeh Gallinaro describing a phone conversation with his neighbor during the Sandy
 
 {% include feature/image.html objectid="a118" width="75" alt="Sandy Damage in Freeport and Seaford" caption="House barge"%}
 The house barge got picked up 3 or 4 feet, went over the top of the pilings that we’re secured to, and was pushed inland about 50 yards.  The floating dock tailed along behind it the whole time.  We were bow to bow with our neighbors’ barge instead of side by side.” -  Peter Kopher. Photo by Ben Jackson.
