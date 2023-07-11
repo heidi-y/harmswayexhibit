@@ -1,6 +1,6 @@
 ---
 title: In Harm's Way Virtual Walkthrough
-layout: page
+layout: about
 permalink: /walkthrough.html
 ---
 
