@@ -23,7 +23,8 @@ The bay houses generally face South, to take advantage of the sunlight and the c
  {% include feature/image.html objectid="a060" width="75" %}
  {% include feature/image.html objectid="a004" width="75" %}
 
- {% include feature/image.html objectid="a162;a163;a164;a165" %}
+ {% include feature/image.html objectid="a162;a163" width="75" caption="Baer Bayhouse;Barratt Bayhouse" %}
+ {% include feature/image.html objectid="a164;a165" width="75" caption="Port Williams Bayhouse;Stensil Bayhouse" %}
 
  
 {% include feature/audio.html objectid="a168" width="50" %}
