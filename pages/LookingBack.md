@@ -24,6 +24,7 @@ Jetties are still used today to protect the shoreline from erosion by acting as 
 {% include feature/image.html objectid="a45" width="75" caption="Hurricane Gloria, Newsday" %}
 Dramatically rising waterlevels are a truly memorable part of natural disastors. On Sunrise Highway, telephone lines and telephone poles almost stopped this car from proceeding as a result of Hurricane Gloria. Note in the audio narrative below by Chip Duryea how intense flooding tends to stick in storm survivor's memories. 
 {% include feature/audio.html objectid="a170" width="50" %}
+>"In a period of 20 minutes it went from almost nothing total catastrophe."-Chip Duryea
 
 {% include feature/image.html objectid="a006" width="75" caption="Objects recovered from past hurricanes" %}
 The Long Island Express took lives as well as property. Some architectural objects survived to serve as reminders of the tumult including the stately capitals featured in this image. 
