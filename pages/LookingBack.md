@@ -20,6 +20,9 @@ After World War II people moved to Long Island's coastal communities, living in 
 {% include feature/image.html objectid="a35" width="75" caption="The Watchman 1938 Newspaper Headline" %}
 Local newspaper, "The Watchman" detailed the horrific destruction and fatalities that resulted from the 1938 hurricane. 
 
+{% include feature/image.html objectid="a42;a43" width="75" caption="Fort Pond Bay before the Hurricane of 1938;Fort Pond Bay after the Hurricane of 1938" %}
+Though relatively short in duration, hurricanes can leave long lasting (even permanant) impacts on our environments.
+
 {% include feature/image.html objectid="a49" width="75" caption="1954 Jetty Construction" %}
 Jetties are still used today to protect the shoreline from erosion by acting as a barrier. 
 
