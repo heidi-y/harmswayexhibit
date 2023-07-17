@@ -18,7 +18,7 @@ Miraculously, 14 bay houses survived, as did modest bungalows in Far Rockaway. S
 {% include feature/video.html objectid="a012" width="75" %}
 Watch the video above for an in-depth look at how Long Island communities were impacted by the storms. 
 
-## To evacuate or not to evactuate
+## To evacuate or not to evacuate
 
  {% include feature/image.html objectid="a119" width="75" alt="Hurricane Sandy Trees" caption="Trees after Sandy."%}
  Hundreds of felled trees clogged roads along the north and south shores following the storm. 
