@@ -37,7 +37,8 @@ It took Frank Passalaqua of Baldwin two weeks to recover from the storm.
 {% include feature/image.html objectid="a118" width="75" alt="Sandy Damage in Freeport and Seaford" caption="Sandy Damage in Freeport and Seaford, photo by Ben Jackson"%}
 The streets of Freeport and Seaford became rivers during Hurricane Sandy. 
 
-Peter and Sally Kopher's houseboat was one of the storm's victims: >"The house barge got picked up 3 or 4 feet, went over the top of the pilings that we’re secured to, and was pushed inland about 50 yards.  The floating dock tailed along behind it the whole time.  We were bow to bow with our neighbors’ barge instead of side by side.” -Peter Kopher
+Peter and Sally Kopher's houseboat was one of the storm's victims: 
+>"The house barge got picked up 3 or 4 feet, went over the top of the pilings that we’re secured to, and was pushed inland about 50 yards.  The floating dock tailed along behind it the whole time.  We were bow to bow with our neighbors’ barge instead of side by side.” -Peter Kopher
 
 {% include feature/video.html objectid="a013" width="75" %}
 Fishermen have particularly harrowing storm stories to share. 
